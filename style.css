@@ -7,7 +7,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     background: linear-gradient(135deg, #1e1e2f, #2a2a4a);
-    color: #fff;
+    color: #00ffff;
     scroll-behavior: smooth;
 }
 
@@ -39,7 +39,7 @@ nav {
 }
 
 .nav-links a {
-    color: #fff;
+    color: #b7fffb;
     text-decoration: none;
     font-weight: 500;
     position: relative;
@@ -253,3 +253,4 @@ nav {
         padding: 1.5rem;
     }
 }
+
